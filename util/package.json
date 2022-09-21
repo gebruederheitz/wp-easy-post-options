@@ -1,6 +1,6 @@
 {
   "name": "@gebruederheitz/wp-easy-post-options-util",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Utilities for the gebruederheitz/wp-easy-post-options PHP composer package",
   "main": "",
   "engines": {
